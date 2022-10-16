@@ -37,7 +37,7 @@ function App() {
         <Visualizer />
       </MainPanel>
     </Layout>
-    <Footer>{footerText}  <a href='#' target='_blank'>Go to source code</a></Footer>
+    <Footer>{footerText}  <a rel="noreferrer"  href='https://github.com/rhombuscoder/reactiveds' target='_blank'>Go to source code</a></Footer>
     </div>
   );
 }
